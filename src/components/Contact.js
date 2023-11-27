@@ -30,7 +30,6 @@ export default function Contact() {
           setMessage(value);
       }
     };
-
     const handleFormSubmit = (e) => {
         e.preventDefault();
 
@@ -40,7 +39,6 @@ export default function Contact() {
         setEmailError('');
         setMessage('');
     };
-
     const isValidEmail = (email) => {
       const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
       return emailRegex.test(email);
