@@ -66,6 +66,7 @@ export default function Contact() {
           name="email"
           value={email}
           onChange={handleInputChange}
+          required
         />
         {emailError && <span>{emailError}</span>}
       </div>
@@ -76,6 +77,7 @@ export default function Contact() {
           name="message"
           value={message}
           onChange={handleInputChange}
+          required
         ></textarea>
       </div>
       <button type="submit">Submit</button>
