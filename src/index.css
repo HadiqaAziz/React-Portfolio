@@ -68,7 +68,7 @@
   }
   
   .nav-link.active {
-    /* font-weight: bolder; */
+   
   }
   
   .aboutContainer {
@@ -85,12 +85,7 @@
     margin-top: 12px;
   }
 
-  /* .aboutContainer h2 {
-    margin-bottom: -26px;
-    font-family: ui-rounded;
-    font-size: 30px;
-    margin-top: 19px;
-  } */
+ 
 
   .aboutContainer p {
     /* font-size: 20px; */
