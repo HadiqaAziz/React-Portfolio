@@ -16,7 +16,7 @@ export default function Resume() {
                 </div>
                 <div className="skillsContainer">
                 <h2>Skills</h2>
-                    <p>HTML5, CSS, Bootstrap, Tailwind,  React, JavaScript, Express, Node, MySQL, MongoDB, GraphQL, Apollo server</p>
+                    <p>HTML5, CSS, Bootstrap, Tailwind,  React, JavaScript, Express, Node, MySQL, MongoDB, GraphQL </p>
                 </div>
             </div>
         </div>
